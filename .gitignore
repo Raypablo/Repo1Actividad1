@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-/.metadata/
-=======
 .classpath
 .project
 .settings/
 bin/
-*.class
->>>>>>> 1c00f1d5ccca00c0bf0b8b863f496238dd2ebdb6
